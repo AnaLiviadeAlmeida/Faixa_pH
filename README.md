@@ -1,5 +1,5 @@
 <h1 align = "center"> Faixa_pH </h1>
-![banner escrito faixa de pH produzido por Ana Livia de Almeida na cor verde com um parametro de pH a esquerda e uma mulher cientista a direita](https://imgur.com/gallery/faixa-ph-lPdiGSe))
+![banner escrito faixa de pH produzido por Ana Livia de Almeida na cor verde com um parametro de pH a esquerda e uma mulher cientista a direita](https://imgur.com/gallery/faixa-ph-lPdiGSe)
 
 Algoritmo em Java focado em identificar se o pH de um produto informado pelo usuário é ácido, neutro ou alcalino.
 
